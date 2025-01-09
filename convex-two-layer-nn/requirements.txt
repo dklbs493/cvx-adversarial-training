@@ -1,0 +1,9 @@
+torch
+numpy
+torchvision
+matplotlib
+tqdm
+jupyter
+ucimlrepo
+cvxpy
+
